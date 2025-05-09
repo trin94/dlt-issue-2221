@@ -41,3 +41,20 @@
    ```shell
    just run-dlt
    ```
+
+# Fix
+
+Attention: this modifies the .venv directly and poetry is not able to track this change.
+It is recommended to remove the .venv and re-install all dependencies once this section is done.
+
+1. Patch dlt
+
+   ```shell
+   just patch-dlt
+   ```
+
+2. Run dlt pipeline again
+
+   ```shell
+   just run-dlt
+   ```

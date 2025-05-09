@@ -38,3 +38,8 @@ install-deps:
 [group('run')]
 run-dlt:
 	poetry run python main.py
+
+# Apply patch
+[group('fix')]
+patch-dlt:
+	sed -i '94s/.*/"az": {"max_concurrency": 1, "skip_instance_cache": False }/' .venv/lib/python3.12/site-packages/dlt/common/storages/fsspec_filesystem.py
