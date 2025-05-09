@@ -8,7 +8,7 @@
 * [az](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli)
 
 **Data**:
-* Test data set (**jsonl** files)
+You will also need a test data set (**jsonl** files). We used a test data set of ~ 5GB in size.
 
 ## Steps
 
