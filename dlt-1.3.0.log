@@ -1,0 +1,323 @@
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+Memory usage: 75.64 MB (47.60%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 1.33s | Rate: 0.00/s
+pipe_name: 1  | Time: 0.00s | Rate: 199728.76/s
+Memory usage: 128.85 MB (48.10%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 2.34s | Rate: 0.00/s
+pipe_name: 108  | Time: 1.01s | Rate: 107.42/s
+Memory usage: 131.04 MB (48.10%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 3.34s | Rate: 0.00/s
+pipe_name: 212  | Time: 2.01s | Rate: 105.39/s
+Memory usage: 132.79 MB (48.10%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 4.35s | Rate: 0.00/s
+pipe_name: 330  | Time: 3.02s | Rate: 109.38/s
+Memory usage: 136.29 MB (48.10%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 5.35s | Rate: 0.00/s
+pipe_name: 456  | Time: 4.02s | Rate: 113.32/s
+Memory usage: 140.23 MB (48.10%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 6.36s | Rate: 0.00/s
+pipe_name: 590  | Time: 5.03s | Rate: 117.28/s
+Memory usage: 144.05 MB (48.20%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 7.37s | Rate: 0.00/s
+pipe_name: 697  | Time: 6.04s | Rate: 115.49/s
+Memory usage: 147.77 MB (48.20%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 8.37s | Rate: 0.00/s
+pipe_name: 813  | Time: 7.04s | Rate: 115.55/s
+Memory usage: 151.48 MB (48.20%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 9.37s | Rate: 0.00/s
+pipe_name: 942  | Time: 8.04s | Rate: 117.13/s
+Memory usage: 155.86 MB (48.30%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 10.38s | Rate: 0.00/s
+pipe_name: 1060  | Time: 9.05s | Rate: 117.15/s
+Memory usage: 159.58 MB (48.30%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 11.38s | Rate: 0.00/s
+pipe_name: 1195  | Time: 10.05s | Rate: 118.88/s
+Memory usage: 164.83 MB (48.40%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 12.38s | Rate: 0.00/s
+pipe_name: 1292  | Time: 11.05s | Rate: 116.88/s
+Memory usage: 167.89 MB (48.60%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 13.40s | Rate: 0.00/s
+pipe_name: 1414  | Time: 12.06s | Rate: 117.20/s
+Memory usage: 171.83 MB (48.60%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 14.40s | Rate: 0.00/s
+pipe_name: 1517  | Time: 13.07s | Rate: 116.07/s
+Memory usage: 175.11 MB (48.50%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 15.40s | Rate: 0.00/s
+pipe_name: 1647  | Time: 14.07s | Rate: 117.06/s
+Memory usage: 179.27 MB (48.50%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 16.40s | Rate: 0.00/s
+pipe_name: 1768  | Time: 15.07s | Rate: 117.29/s
+Memory usage: 182.55 MB (48.80%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 17.41s | Rate: 0.00/s
+pipe_name: 1883  | Time: 16.07s | Rate: 117.14/s
+Memory usage: 185.61 MB (48.80%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 18.41s | Rate: 0.00/s
+pipe_name: 1999  | Time: 17.08s | Rate: 117.07/s
+Memory usage: 188.67 MB (48.80%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 19.41s | Rate: 0.00/s
+pipe_name: 2118  | Time: 18.08s | Rate: 117.18/s
+Memory usage: 192.83 MB (48.80%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 20.41s | Rate: 0.00/s
+pipe_name: 2254  | Time: 19.08s | Rate: 118.14/s
+Memory usage: 196.98 MB (48.70%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 21.41s | Rate: 0.00/s
+pipe_name: 2382  | Time: 20.08s | Rate: 118.61/s
+Memory usage: 200.92 MB (48.70%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 22.42s | Rate: 0.00/s
+pipe_name: 2477  | Time: 21.09s | Rate: 117.45/s
+Memory usage: 205.95 MB (48.70%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 23.42s | Rate: 0.00/s
+pipe_name: 2571  | Time: 22.09s | Rate: 116.39/s
+Memory usage: 211.64 MB (48.70%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 24.42s | Rate: 0.00/s
+pipe_name: 2678  | Time: 23.09s | Rate: 115.96/s
+Memory usage: 217.77 MB (49.00%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 25.43s | Rate: 0.00/s
+pipe_name: 2771  | Time: 24.10s | Rate: 114.98/s
+Memory usage: 223.45 MB (49.00%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 26.43s | Rate: 0.00/s
+pipe_name: 2896  | Time: 25.10s | Rate: 115.36/s
+Memory usage: 230.89 MB (48.90%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 27.44s | Rate: 0.00/s
+pipe_name: 3018  | Time: 26.11s | Rate: 115.59/s
+Memory usage: 234.83 MB (49.10%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 28.45s | Rate: 0.00/s
+pipe_name: 3122  | Time: 27.12s | Rate: 115.12/s
+Memory usage: 238.33 MB (49.40%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 29.45s | Rate: 0.00/s
+pipe_name: 3221  | Time: 28.12s | Rate: 114.54/s
+Memory usage: 241.83 MB (48.80%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 30.46s | Rate: 0.00/s
+pipe_name: 3346  | Time: 29.13s | Rate: 114.88/s
+Memory usage: 245.77 MB (48.90%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 31.47s | Rate: 0.00/s
+pipe_name: 3452  | Time: 30.13s | Rate: 114.55/s
+Memory usage: 249.05 MB (49.00%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 32.47s | Rate: 0.00/s
+pipe_name: 3567  | Time: 31.14s | Rate: 114.54/s
+Memory usage: 252.55 MB (49.00%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 33.48s | Rate: 0.00/s
+pipe_name: 3681  | Time: 32.15s | Rate: 114.50/s
+Memory usage: 255.83 MB (49.20%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 34.48s | Rate: 0.00/s
+pipe_name: 3786  | Time: 33.15s | Rate: 114.20/s
+Memory usage: 259.55 MB (49.30%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 35.49s | Rate: 0.00/s
+pipe_name: 3893  | Time: 34.16s | Rate: 113.97/s
+Memory usage: 261.95 MB (49.40%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 36.49s | Rate: 0.00/s
+pipe_name: 4008  | Time: 35.16s | Rate: 113.98/s
+Memory usage: 267.20 MB (49.90%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 37.50s | Rate: 0.00/s
+pipe_name: 4096  | Time: 36.17s | Rate: 113.25/s
+Memory usage: 270.70 MB (50.00%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 38.50s | Rate: 0.00/s
+pipe_name: 4209  | Time: 37.17s | Rate: 113.24/s
+Memory usage: 275.73 MB (49.90%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 39.51s | Rate: 0.00/s
+pipe_name: 4322  | Time: 38.18s | Rate: 113.20/s
+Memory usage: 279.89 MB (49.80%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 40.51s | Rate: 0.00/s
+pipe_name: 4439  | Time: 39.18s | Rate: 113.29/s
+Memory usage: 284.27 MB (50.10%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 41.52s | Rate: 0.00/s
+pipe_name: 4569  | Time: 40.19s | Rate: 113.69/s
+Memory usage: 289.08 MB (50.20%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 42.53s | Rate: 0.00/s
+pipe_name: 4688  | Time: 41.20s | Rate: 113.80/s
+Memory usage: 292.58 MB (50.20%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 43.53s | Rate: 0.00/s
+pipe_name: 4813  | Time: 42.20s | Rate: 114.06/s
+Memory usage: 295.42 MB (50.30%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 44.53s | Rate: 0.00/s
+pipe_name: 4929  | Time: 43.20s | Rate: 114.09/s
+Memory usage: 299.14 MB (50.30%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 45.86s | Rate: 0.00/s
+pipe_name: 5000  | Time: 44.53s | Rate: 112.28/s
+Memory usage: 286.54 MB (50.50%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 46.87s | Rate: 0.00/s
+pipe_name: 5126  | Time: 45.54s | Rate: 112.56/s
+Memory usage: 279.64 MB (50.50%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 47.87s | Rate: 0.00/s
+pipe_name: 5252  | Time: 46.54s | Rate: 112.84/s
+Memory usage: 279.64 MB (50.50%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 48.88s | Rate: 0.00/s
+pipe_name: 5380  | Time: 47.55s | Rate: 113.14/s
+Memory usage: 278.64 MB (50.60%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 49.89s | Rate: 0.00/s
+pipe_name: 5492  | Time: 48.56s | Rate: 113.11/s
+Memory usage: 277.71 MB (50.90%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 50.89s | Rate: 0.00/s
+pipe_name: 5605  | Time: 49.56s | Rate: 113.10/s
+Memory usage: 277.71 MB (51.10%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 51.89s | Rate: 0.00/s
+pipe_name: 5721  | Time: 50.56s | Rate: 113.14/s
+Memory usage: 277.71 MB (50.70%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 52.90s | Rate: 0.00/s
+pipe_name: 5827  | Time: 51.57s | Rate: 113.00/s
+Memory usage: 277.71 MB (50.70%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 53.90s | Rate: 0.00/s
+pipe_name: 5924  | Time: 52.57s | Rate: 112.69/s
+Memory usage: 277.71 MB (50.60%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 1/1 (100.0%) | Time: 54.26s | Rate: 0.02/s
+pipe_name: 5950  | Time: 52.93s | Rate: 112.40/s
+Memory usage: 268.73 MB (50.60%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+Memory usage: 268.73 MB (50.60%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 0/1 (0.0%) | Time: 0.00s | Rate: 0.00/s
+_dlt_pipeline_state: 1  | Time: 0.00s | Rate: 524288.00/s
+Memory usage: 268.73 MB (50.60%) | CPU usage: 0.00%
+
+----------------------------- Extract source_name ------------------------------
+Resources: 1/1 (100.0%) | Time: 0.01s | Rate: 75.73/s
+_dlt_pipeline_state: 1  | Time: 0.01s | Rate: 88.65/s
+Memory usage: 268.73 MB (50.60%) | CPU usage: 0.00%
+
+----------------- Normalize source_name in 1746800002.8355513 ------------------
+Files: 0/2 (0.0%) | Time: 0.00s | Rate: 0.00/s
+Memory usage: 267.75 MB (50.50%) | CPU usage: 0.00%
+
+----------------- Normalize source_name in 1746800002.8355513 ------------------
+Files: 0/2 (0.0%) | Time: 0.00s | Rate: 0.00/s
+Items: 0  | Time: 0.00s | Rate: 0.00/s
+Memory usage: 267.75 MB (50.50%) | CPU usage: 0.00%
+
+----------------- Normalize source_name in 1746800002.8355513 ------------------
+Files: 16/2 (800.0%) | Time: 10.80s | Rate: 1.48/s
+Items: 0  | Time: 10.80s | Rate: 0.00/s
+Memory usage: 326.26 MB (51.00%) | CPU usage: 0.00%
+
+----------------- Normalize source_name in 1746800002.8355513 ------------------
+Files: 16/2 (800.0%) | Time: 10.81s | Rate: 1.48/s
+Items: 279150  | Time: 10.81s | Rate: 25828.25/s
+Memory usage: 326.26 MB (51.00%) | CPU usage: 0.00%
+
+-------------------- Load source_name in 1746800002.8355513 --------------------
+Jobs: 0/16 (0.0%) | Time: 0.00s | Rate: 0.00/s
+Memory usage: 326.26 MB (51.00%) | CPU usage: 0.00%
+
+-------------------- Load source_name in 1746800002.8355513 --------------------
+Jobs: 1/16 (6.2%) | Time: 1.23s | Rate: 0.81/s
+Memory usage: 592.11 MB (54.00%) | CPU usage: 0.00%
+
+-------------------- Load source_name in 1746800002.8355513 --------------------
+Jobs: 15/16 (93.8%) | Time: 2.24s | Rate: 6.68/s
+Memory usage: 488.89 MB (52.10%) | CPU usage: 0.00%
+
+-------------------- Load source_name in 1746800002.8355513 --------------------
+Jobs: 16/16 (100.0%) | Time: 2.30s | Rate: 6.95/s
+Memory usage: 488.89 MB (52.10%) | CPU usage: 0.00%
+

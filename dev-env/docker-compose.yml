@@ -1,0 +1,28 @@
+name: "dlt-issue-2221"
+
+services:
+  postgres:
+    image: postgres:16.8-alpine
+    environment:
+      POSTGRES_USER: ${DESTINATION__POSTGRES__CREDENTIALS__USERNAME}
+      POSTGRES_PASSWORD: ${DESTINATION__POSTGRES__CREDENTIALS__PASSWORD}
+      POSTGRES_DB: ${DESTINATION__POSTGRES__CREDENTIALS__DATABASE}
+    ports:
+      - "5001:5432"
+    volumes:
+      - postgres:/var/lib/postgresql/data
+
+  azurite:
+    image: mcr.microsoft.com/azure-storage/azurite:3.34.0
+    user: "1000:1000"
+    ports:
+      - "10000:10000"
+    volumes:
+      - ../dev-env/azurite:/workspace
+    command: |
+      azurite
+      --location "/workspace"
+      --blobHost 0.0.0.0
+
+volumes:
+  postgres:
